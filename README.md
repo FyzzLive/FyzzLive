@@ -11,6 +11,7 @@
   
 ### Skills 💻
 #### Web Dev:
+<details>
   - HTML
   - CSS
   - JS
@@ -20,23 +21,20 @@
   - FireBase
   - Python
   - WordPress
+</details>
+  
 #### Cloud | VMs:
-  - Git
-  - Github
-  - Virtual Box
-  - VM Ware
-  - AWS
-  - Google Cloud
+<details>
+  Git | Github | Virtual Box | VMware | AWS | Google Cloud
+</details>
+  
 #### Cyber Sec:
-  - Hack the Box
-  - Try hack me
-  - Python
-  - VMs
-  - Hack5
-  - Raspberry Pi
+<details>
+  Hack the Box | Try hack me | Python | VMs | Hack5 | Raspberry Pi
+</details>
+  
 #### Art:
-  - Blender
-  - Adobe Suit
-  - Affinity Suit
-  - Video Editing
+<details>
+  Blender | Adobe Suit | Affinity Suit | Video Editing
+</details>
 </body>
